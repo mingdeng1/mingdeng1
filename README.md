@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mingdeng.yan
 - 👀 I’m interested in C++, typescript, python, scons, docker, kubernetes, graphql.
-- 🌱 I’m currently learning fast coding and code review.
+- 🌱 I’m currently learning faster coding and code review.
 - 💞️ I’m looking to collaborate on all funny techniques.
 - 😄 Teamwork makes the dream work.
 
